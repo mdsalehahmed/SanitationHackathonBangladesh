@@ -1,0 +1,13 @@
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\ResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\App.g.i.cs
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\MainPage.g.i.cs
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\CleanDay.g.resources
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\ApplicationIcon.png
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\Background.png
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\CleanDay.dll
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\CleanDay.pdb
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\AppManifest.xaml
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\Bin\Debug\CleanDay.xap
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\CleanDay.dll
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\CleanDay.pdb
+c:\users\asus\documents\visual studio 2010\Projects\CleanDay\CleanDay\obj\Debug\XapCacheFile.xml
